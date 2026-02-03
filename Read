@@ -1,1 +1,1 @@
-spark.read..csv("/path/file.csv")
+spark.read.csv("/path/file.csv")
